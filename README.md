@@ -24,7 +24,8 @@ Drew visualizations on some of the analysis.
 
 ## Conclusion
 After the analysis that was done on the TheMovieDB dataset, most movies that are currently trending in the market belong to **Superhero, Science fiction and Fantasy** genres.
-On the other hand, Rotten tomatoes dataset shows that the most popular movie genres are Action and Adventure, Comedy|Drama|Romance, Action and Adventure|Art House and International, Art House and International| Documentary, Action and Adventure|Mystery and suspense. However, TheMovieDB dataset was limited in that the movies were not be classified into the genre names they belong to. Therefore, the analysis was limited based on this classification and I had to make my own conclusions on the genre the top movies belong to.
+On the other hand, Rotten tomatoes dataset shows that the most popular movie genres are **Action and Adventure, Comedy|Drama|Romance, Action and Adventure|Art House and International, Art House and International| Documentary, Action and Adventure|Mystery and suspense**. 
+*However, TheMovieDB dataset was limited in that the movies were not classified in the genre names they belong to. Therefore, the analysis was limited based on this classification and I had to make my own conclusions on the genre the top movies belong to.*
 
 ## Repository Stucture
 ```
