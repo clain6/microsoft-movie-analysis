@@ -8,11 +8,11 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ## The Data
 The data contains movie details from various datasets. The datasets were sourced from:
-	*Box Office Mojo
-	*IMDB
-	*Rotten Tomatoes
-	*TheMovieDB
-	*The Numbers.
+* Box Office Mojo
+* IMDB
+* Rotten Tomatoes
+* TheMovieDB
+* The Numbers.
 
 ## Repository Stucture
 ```
